@@ -1,7 +1,7 @@
 ### Hi there, I'm Tuhin - aka [NightCode]👋
 
 [![Website](https://img.shields.io/website?label=nightcode.ml&style=for-the-badge&url=https%3A%2F%2Fnightcode.ml)](https://nightcode.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tuhingarai124?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nightcode7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NigthCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nightcode7)
 
 ## I'm a Student!
 
@@ -41,7 +41,7 @@
 </details>
 
 [website]: https://nightcode.ml
-[twitter]: https://twitter.com/tuhingarai124
+[twitter]: https://twitter.com/nightcode7
 [youtube]: https://www.youtube.com/channel/UC3oPOXfDxkmQgwttR2Vx0ig
 [instagram]: https://www.instagram.com/night_code.777/
 [linkedin]: https://www.linkedin.com/in/tuhin-garai-270a71148/
