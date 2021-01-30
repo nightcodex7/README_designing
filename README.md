@@ -1,7 +1,7 @@
 ### Hi there, I'm Tuhin - aka [NightCode]👋
 
 [![Website](https://img.shields.io/website?label=nightcode.ml&style=for-the-badge&url=https%3A%2F%2Fnightcode.ml)](https://nightcode.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nightcode7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nightcode7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nightcode_x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nightcode_x)
 
 ## I'm a Student!
 
