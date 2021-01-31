@@ -44,4 +44,4 @@
 [twitter]: https://twitter.com/nightcode_x
 [youtube]: https://www.youtube.com/channel/UC3oPOXfDxkmQgwttR2Vx0ig
 [instagram]: https://www.instagram.com/nightcode_x/
-[linkedin]: https://www.linkedin.com/in/tuhin-garai-270a71148/
+[linkedin]: https://www.linkedin.com/in/tuhingarai/
