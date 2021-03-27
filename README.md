@@ -1,6 +1,6 @@
 ### Hi there, I'm Tuhin - a.k.a NightCode👋
 
-#[![Website](https://img.shields.io/website?label=nightcode.ml&style=for-the-badge&url=https%3A%2F%2Fnightcode.ml)](https://nightcode.ml)
+[![Website](https://img.shields.io/website?label=nightcode.ml&style=for-the-badge&url=https%3A%2F%2Fnightcode.ml)](https://nightcode.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nightcode_x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/nightcode_x)
 
 ## I'm a Student!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NightCode.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="NightCode.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 [<img align="left" alt="Tuhin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tuhin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tuhin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,7 +40,7 @@
 
 </details>
 
-#[website]: https://nightcode.ml
+[website]: https://nightcode.ml
 [twitter]: https://twitter.com/nightcode_x
 [youtube]: https://www.youtube.com/channel/UC3oPOXfDxkmQgwttR2Vx0ig
 [instagram]: https://www.instagram.com/nightcode_x/
