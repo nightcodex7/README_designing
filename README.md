@@ -31,7 +31,7 @@
 <br />
 
 ---
-
+<a href="https://stackexchange.com/users/13578984/tuhin-garai"><img src="https://stackexchange.com/users/flair/13578984.png" width="208" height="58" alt="profile for Tuhin Garai on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tuhin Garai on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 <details>
   <summary>:zap: Github Stats</summary>
